@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# coding: utf-8
+
 import boto.ec2
 from boto.ec2.connection import EC2Connection
 import urllib2
